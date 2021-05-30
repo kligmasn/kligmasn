@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+- 🌱 Currently trying to improve my web technology skills (js, typescript, angular)
+- 👯 Interested in learning back end frameworks (node js), app development, database development
 
 <!--
 **kligmasn/kligmasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
